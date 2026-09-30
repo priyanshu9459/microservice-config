@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: user-service-dev
 
 eureka:
   instance:
